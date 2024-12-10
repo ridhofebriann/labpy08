@@ -18,7 +18,7 @@ class untuk menampilkan daftar nilai mahasiswa,
 # diagram class:
 ![diagram class](https://github.com/ridhofebriann/labpy08/blob/main/diagram%20class.png?raw=true)
 
-# flowchart ssya:
+# flowchart saya:
 ![flowchart](https://github.com/ridhofebriann/labpy08/blob/main/flowchart.daftar.drawio.png?raw=true)
 #### Codingan Praktikum 8
 
