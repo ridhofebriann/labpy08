@@ -16,10 +16,10 @@ Pada praktikum 8, kita membuat program sederhana dengan mengaplikasikan pengguna
 class untuk menampilkan daftar nilai mahasiswa,
 
 #### diagram class:
-![diagram class]()
+![diagram class](https://github.com/ridhofebriann/labpy08/blob/main/diagram%20class.png?raw=true)
 
 ### flowchart ssya:
-![flowchart()
+![flowchart(https://github.com/ridhofebriann/labpy08/blob/main/flowchart.daftar.drawio.png?raw=true)
 #### Codingan Praktikum 8
 
 ```python
@@ -165,4 +165,4 @@ daftar.tampilkan()
 
 ## ini hasil output saya:
 
-![hasil]()
+![hasil](https://github.com/ridhofebriann/labpy08/blob/main/hasill%20kode%20program%20saya.png?raw=true)
