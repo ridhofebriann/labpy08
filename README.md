@@ -68,13 +68,13 @@ daftar.tambah("kia", 78)
 
 daftar.tampilkan()
 
+daftar.hapus("bagus")
+daftar.tampilkan()
+
 
 daftar.ubah("ridho", 88)
 daftar.tampilkan()
 
-
-daftar.hapus("bagus")
-daftar.tampilkan()
 ```
 
 #### Penjelasan Kode Program
@@ -155,12 +155,12 @@ daftar.tambah("kia", 78)
 daftar.tampilkan()
 
 
+daftar.hapus("bagus")
+daftar.tampilkan()
+
 daftar.ubah("ridho", 88)
 daftar.tampilkan()
 
-
-daftar.hapus("bagus")
-daftar.tampilkan()
 ```
 
 ## ini hasil output saya:
